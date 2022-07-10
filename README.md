@@ -2,14 +2,13 @@
 
 Txtanerd (Landing Page With HTML5, CSS3, JS, Bootstrap 5, jQuery)
 
-### Built With
-
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
 ## Preview
 
+<p align="center">
+
 ![Home Page](screenshot.gif)
+
+</p>
 
 ## Template structure
 
