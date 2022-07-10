@@ -4,9 +4,8 @@ Txtanerd (Landing Page With HTML5, CSS3, JS, Bootstrap 5, jQuery)
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-[![HTML]] [![CSS]] [![JAVASCRIPT]] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![JQuery][JQuery.com]][JQuery-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
 ## Preview
 
@@ -22,5 +21,5 @@ Txtanerd/                         # → Root of your Template
 │   ├── js/                       # → Template JS File
 │   └── webfonts/                 # → Template icon fonts
 ├── index.html                    # → Index Page 
-└── screenshot.gif                # → Template Customizer
+└── screenshot.gif                # → Template Screenshot
 ```
