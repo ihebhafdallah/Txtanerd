@@ -4,11 +4,7 @@ Txtanerd (Landing Page With HTML5, CSS3, JS, Bootstrap 5, jQuery)
 
 ## Preview
 
-<p align="center">
-
 ![Home Page](screenshot.gif)
-
-</p>
 
 ## Template structure
 
